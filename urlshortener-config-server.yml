@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: urlshortener
+    
+urlshortener:
+  maxOrders: 10
+  minOrders: 1
